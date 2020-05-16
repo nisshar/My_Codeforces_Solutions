@@ -5,15 +5,11 @@ using namespace std;
 #define a_print for(ll i=0;i<n;i++) cout<<arr[i]<<" ";
 #define endl "\n"
 #define w(x) int x; cin>>x; while(x--) 
+#define vi vector<int> 
+#define umap unordered_map
 int main(){
     
-    
-    
-    
-    
-    
-    
-    
-    
+   
+   
     return 0;
 }
